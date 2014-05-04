@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[@octopress]]></title>
+  <link href="http://blog.eamca.com/atom.xml" rel="self"/>
+  <link href="http://blog.eamca.com/"/>
+  <updated>2014-05-04T19:08:01+10:00</updated>
+  <id>http://blog.eamca.com/</id>
+  <author>
+    <name><![CDATA[spondbob]]></name>
+    <email><![CDATA[spondbob@eamca.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
