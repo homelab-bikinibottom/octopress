@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://spondbob.github.io/atom.xml" rel="self"/>
-  <link href="http://spondbob.github.io/"/>
-  <updated>2014-05-03T23:22:14+10:00</updated>
-  <id>http://spondbob.github.io/</id>
+  <title><![CDATA[@octopress]]></title>
+  <link href="http://blog.eamca.com/atom.xml" rel="self"/>
+  <link href="http://blog.eamca.com/"/>
+  <updated>2014-05-04T18:07:14+10:00</updated>
+  <id>http://blog.eamca.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[spondbob]]></name>
+    <email><![CDATA[spondbob@eamca.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
