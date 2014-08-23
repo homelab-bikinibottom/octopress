@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://blog.eamca.com/blog/2014/good-morning/</loc>
+        <lastmod>2014-05-08T19:39:01+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/about/</loc>
+        <lastmod>2014-05-04T19:03:11+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/blog/archives/</loc>
+        <lastmod>2014-05-08T19:39:01+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/blog/categories/</loc>
+        <lastmod>2014-05-04T19:03:11+10:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/</loc>
+        <lastmod>2014-05-08T19:39:01+10:00</lastmod>
+    </url>
+</urlset>
