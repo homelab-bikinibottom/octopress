@@ -4,7 +4,7 @@
   <title><![CDATA[@octopress]]></title>
   <link href="http://blog.eamca.com/atom.xml" rel="self"/>
   <link href="http://blog.eamca.com/"/>
-  <updated>2014-08-24T01:14:07+10:00</updated>
+  <updated>2014-09-05T18:19:26+10:00</updated>
   <id>http://blog.eamca.com/</id>
   <author>
     <name><![CDATA[spondbob]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[bikinibottom]]></title>
+    <link href="http://blog.eamca.com/blog/2014/bikinibottom/"/>
+    <updated>2014-09-05T17:30:57+10:00</updated>
+    <id>http://blog.eamca.com/blog/2014/bikinibottom</id>
+    <content type="html"><![CDATA[<p>This page is specifically introduced my Raspberry Pi, bikinibottom, with its functionalities and features. Since at the time this page is written, bikinibottom is a Raspberry Pi runs Arch Linux ARM. Its mainly usage is as a standalone development server.</p>
+
+<!-- more -->
+
+
+<p>The attached hardware is listed as follows:</p>
+
+<ul>
+<li>Raspberry Pi Model B</li>
+<li>SanDisk Ultra SDHC Card 16GB</li>
+<li>Nano USB WiFi EDIMAX EW-7811Un</li>
+<li>Power adaptor 750mA, 1A, and 2A</li>
+</ul>
+
+
+<p>The most usage applications are:</p>
+
+<ul>
+<li>Web servers: apache2, nginx</li>
+<li>Database servers: postgre, MongoDB</li>
+<li>Programming languages: PHP, python, ruby (on Rails)</li>
+<li>Multimedia: omxplayer, mopidy</li>
+<li>Torrent: rutorrent</li>
+<li>Other: rvm, git, tmuxinator</li>
+</ul>
+
+
+<p>Partition table:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Disk /dev/mmcblk0: 14.9 GiB, 15931539456 bytes, 31116288 sectors
+</span><span class='line'>Units: sectors of 1 * 512 = 512 bytes
+</span><span class='line'>Sector size (logical/physical): 512 bytes / 512 bytes
+</span><span class='line'>I/O size (minimum/optimal): 512 bytes / 512 bytes
+</span><span class='line'>Disklabel type: dos
+</span><span class='line'>Disk identifier: 0x417ee54b
+</span><span class='line'>
+</span><span class='line'>Device         Boot  Start      End  Sectors  Size Id Type
+</span><span class='line'>/dev/mmcblk0p1        2048   186367   184320   90M  c W95 FAT32 (LBA)
+</span><span class='line'>/dev/mmcblk0p2      186368 31116287 30929920 14.8G  5 Extended
+</span><span class='line'>/dev/mmcblk0p5      188416 31116287 30927872 14.8G 83 Linux</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Merdeka!]]></title>
