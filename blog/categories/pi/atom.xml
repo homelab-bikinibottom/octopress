@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[@octopress]]></title>
-  <link href="http://blog.eamca.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Pi | @octopress]]></title>
+  <link href="http://blog.eamca.com/blog/categories/pi/atom.xml" rel="self"/>
   <link href="http://blog.eamca.com/"/>
   <updated>2014-09-13T17:09:12+10:00</updated>
   <id>http://blog.eamca.com/</id>
@@ -91,79 +91,20 @@ Put it in a <code>your_filename.service</code> then enable it by <code>#systemct
 </ul>
 
 
-<p>Partition table:</p>
+<p>Partition table:
+```
+Disk /dev/mmcblk0: 14.9 GiB, 15931539456 bytes, 31116288 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x417ee54b</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Disk /dev/mmcblk0: 14.9 GiB, 15931539456 bytes, 31116288 sectors
-</span><span class='line'>Units: sectors of 1 * 512 = 512 bytes
-</span><span class='line'>Sector size (logical/physical): 512 bytes / 512 bytes
-</span><span class='line'>I/O size (minimum/optimal): 512 bytes / 512 bytes
-</span><span class='line'>Disklabel type: dos
-</span><span class='line'>Disk identifier: 0x417ee54b
-</span><span class='line'>
-</span><span class='line'>Device         Boot  Start      End  Sectors  Size Id Type
-</span><span class='line'>/dev/mmcblk0p1        2048   186367   184320   90M  c W95 FAT32 (LBA)
-</span><span class='line'>/dev/mmcblk0p2      186368 31116287 30929920 14.8G  5 Extended
-</span><span class='line'>/dev/mmcblk0p5      188416 31116287 30927872 14.8G 83 Linux</span></code></pre></td></tr></table></div></figure>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Merdeka!]]></title>
-    <link href="http://blog.eamca.com/blog/2014/merdeka/"/>
-    <updated>2014-08-24T20:03:57+10:00</updated>
-    <id>http://blog.eamca.com/blog/2014/merdeka</id>
-    <content type="html"><![CDATA[<p>It was 69 years ago. August 17, 1945 was the independence day of Indonesia. I&rsquo;m not going to say anything what has been done during that time, but here it is Republic of Indonesia in 2014.</p>
-
-<p>The good news is, this year we are going to have new president! Believes and hopes are on his shoulders. Time to roll up our sleeves folks.</p>
-
-<p>Let&rsquo;s get back to this 4-years away series. I feel a shame as I didn&rsquo;t join the ceremony this morning. I have been prepared for this day night before. Alarm clock, time to catch the tram, the stop, and last but not least weather was checked. Everything seems perfect except: Get up early on Sunday morning. I missed my chance to unlock the achievement &ldquo;Attend independence day ceremony for 2 timess in a row during 20s&rdquo;.</p>
-
-<p>I&rsquo;d like to say congratulations to people who managed to celebrate this day like one of them at Federation Square, and every single person who has brought us to this 69.</p>
-
-<p>Merdeka!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ancora Imparo]]></title>
-    <link href="http://blog.eamca.com/blog/2014/ancora-imparo/"/>
-    <updated>2014-07-28T23:55:05+10:00</updated>
-    <id>http://blog.eamca.com/blog/2014/ancora-imparo</id>
-    <content type="html"><![CDATA[<p>Do you?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Good Morning.]]></title>
-    <link href="http://blog.eamca.com/blog/2014/good-morning/"/>
-    <updated>2014-05-05T09:20:44+10:00</updated>
-    <id>http://blog.eamca.com/blog/2014/good-morning</id>
-    <content type="html"><![CDATA[<p>Well, let&rsquo;s begin with a warm message.</p>
-
-<p>Howdy you there! yeah you, it&rsquo;s you!<br />
-Nah, nobody care.</p>
-
-<p>It&rsquo;s been a long time since I got this idea to set up a new blog in English. And here it is, this <a href="http://octopress.org/">happy typing octopus</a> squized me up. Look how happy he is. Took 2 days for me to get rid of the tentacles and this octopus keeps smile on me. Be a good boy.</p>
-
-<p>Anyway, this writing is not only to show off my beautiful hand writing, I know, but under some circumstances is easier to explain it like this. Just let me write what I want and this time is in English, take it.</p>
-
-<p>As I mention before, while am writing in English you have to do the same. There will be a lot of people coming here, so make sure you are already prepared to be known. Yeaah.</p>
-
-<p>One more thing, let me say this one. I know it&rsquo;s silly, you have your own dreams to do anything (as please as to this octopus) and there your ego come. Make sure where your foot is going to step on and towards which way. Yes, to the right one.</p>
-
-<p>Good Morning, sunshine.</p>
+<p>Device         Boot  Start      End  Sectors  Size Id Type
+/dev/mmcblk0p1        2048   186367   184320   90M  c W95 FAT32 (LBA)
+/dev/mmcblk0p2      186368 31116287 30929920 14.8G  5 Extended
+/dev/mmcblk0p5      188416 31116287 30927872 14.8G 83 Linux
+```</p>
 ]]></content>
   </entry>
   
