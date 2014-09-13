@@ -3,7 +3,7 @@ layout: post
 title: "bikinibottom"
 date: 2014-09-05 17:30:57 +1000
 comments: true
-categories: "Raspberry Pi"
+categories: [Raspberry Pi]
 ---
 This page is specifically introduced my Raspberry Pi, bikinibottom, with its functionalities and features. Since at the time this page is written, bikinibottom is a Raspberry Pi runs Arch Linux ARM. Its mainly usage is as a standalone development server.
 <!-- more -->
