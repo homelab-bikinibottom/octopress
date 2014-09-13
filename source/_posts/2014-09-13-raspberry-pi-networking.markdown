@@ -3,7 +3,7 @@ layout: post
 title: "Raspberry Pi Networking"
 date: 2014-09-13 17:05:47 +1000
 comments: true
-categories: Raspberry Pi
+categories: "Raspberry Pi"
 ---
 I used to have troubles to set my Raspberry Pi to get connected to the existing network because I do not have keyboard and monitor to directly access it. The only thing I can do is plug off the sdcard and insert it into my laptop to get access to the OS.
 
