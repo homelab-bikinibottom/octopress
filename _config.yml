@@ -78,7 +78,8 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: 117443433032411477123
+#googleplus_user: 117443433032411477123
+googleplus_user: +RizkyNoorIchwan
 googleplus_hidden: false
 
 # Pinboard
@@ -100,4 +101,4 @@ google_analytics_tracking_id: UA-18930419-12
 facebook_like: true
 
 # Linkedin
-linkedin_user: spondbob
+linkedin_user: rnichwan
