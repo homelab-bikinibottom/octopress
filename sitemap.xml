@@ -2,38 +2,42 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.eamca.com/blog/2014/good-morning/</loc>
-        <lastmod>2014-08-23T23:23:11+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/2014/ancora-imparo/</loc>
-        <lastmod>2014-08-24T00:00:00+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/2014/merdeka/</loc>
-        <lastmod>2014-08-24T01:05:03+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/2014/bikinibottom/</loc>
-        <lastmod>2014-09-13T17:19:07+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/2014/raspberry-pi-networking/</loc>
-        <lastmod>2014-09-13T17:19:20+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/blog/2014/a-letter-from-grandfather/</loc>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/categories/</loc>
-        <lastmod>2014-08-23T20:47:31+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/blog/archives/</loc>
-        <lastmod>2014-09-13T17:19:20+10:00</lastmod>
-    </url>
-    <url>
-        <loc>http://blog.eamca.com/about/</loc>
-        <lastmod>2014-08-23T23:42:00+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
     <url>
         <loc>http://blog.eamca.com/</loc>
-        <lastmod>2014-09-13T17:19:20+10:00</lastmod>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.eamca.com/about/</loc>
+        <lastmod>2014-11-24T12:35:21+11:00</lastmod>
     </url>
 </urlset>

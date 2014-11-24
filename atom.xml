@@ -4,7 +4,7 @@
   <title><![CDATA[@octopress]]></title>
   <link href="http://blog.eamca.com/atom.xml" rel="self"/>
   <link href="http://blog.eamca.com/"/>
-  <updated>2014-10-01T14:43:31+10:00</updated>
+  <updated>2014-11-24T12:35:22+11:00</updated>
   <id>http://blog.eamca.com/</id>
   <author>
     <name><![CDATA[spondbob]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Letter from Grandfather]]></title>
+    <link href="http://blog.eamca.com/blog/2014/a-letter-from-grandfather/"/>
+    <updated>2014-11-24T12:01:43+11:00</updated>
+    <id>http://blog.eamca.com/blog/2014/a-letter-from-grandfather</id>
+    <content type="html"><![CDATA[<blockquote><p>&hellip; travel to places; learn a skill; master a language; meet someone special &hellip; <p> Don&rsquo;t say &ldquo;I&rsquo;ll do it tomorrow&rdquo;. That is the surest way to fail to do something. There is no tomorrow, and there is no &ldquo;right&rdquo; time to begin something except now.</p></p></blockquote>
+
+<!-- more -->
+
+
+<p>I was doing backup of some files and found a snapshot of this particular letter in my disk. As slong I remember, it was from a magazine that I read at home, and I found this message was quite interesting. I did Google to find out the complete letter of the writer: James K. Flanagan. He was a vice president of research department of Rutgers University, USA. He wrote this letter to his five grandchildrens, months earlier before he got a heart attack and died. You might want to read the full letter <a href="http://s.eamca.com/grandfathers-love">here</a>.</p>
+
+<p>Rest in peace, Mr Flanagan.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Raspberry Pi Networking]]></title>
